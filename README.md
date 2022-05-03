@@ -18,8 +18,3 @@ Here are some ideas to get you started:
 [우정사업정보센터] 우편정보시스템 PDA 개발 및 관리운영(Android, C#, Javascript, Java/Spring, Oracle)<br>
 [우정사업정보센터] 지능형우편정보시스템 구축 및 안정화(Android, C#, Javascript, Java/Spring, Oracle)<br>
 -->
-
-<div>
-  <button>KR</button>
-  <button>JP</button>
-</div>

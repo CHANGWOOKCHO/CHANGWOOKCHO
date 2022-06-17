@@ -1,20 +1,14 @@
 
-<!--
-**CHANGWOOKCHO/CHANGWOOKCHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+事業内容
+[郵政事業情報センター]郵便情報システムのPDAの開発、管理、運営(SM)
+[郵政事業情報センター]インテリジェント郵便情報システム構築と安定化(SI)
 
-Here are some ideas to get you started:
+職務内容
+郵便局の配達員が集荷・配達に使うWebAppのプログラムの開発と運営と共に郵便局から配達員の勤務、PDA料金などを確認及び管理するバックエンドシステムの開発
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+スキル
+Java, C#, python, Html/JavaScript, Android, Linux, Deep Learning, Machine Learning, Oracle, MySql
 
-
-<h2>경력</h2>
-[우정사업정보센터] 우편정보시스템 PDA 개발 및 관리운영(Android, C#, Javascript, Java/Spring, Oracle)<br>
-[우정사업정보센터] 지능형우편정보시스템 구축 및 안정화(Android, C#, Javascript, Java/Spring, Oracle)<br>
--->
+教育履修
+IOT融合サービスエンジニア養成教育(2017/12 - 2018.05)
+ビッグデータ分析サービスエンジニア課程(2022/01 - 2022.06)

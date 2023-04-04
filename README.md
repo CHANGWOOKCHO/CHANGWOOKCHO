@@ -1,14 +1,16 @@
 
-<h2>参加事業内容</h2><br>
-[郵政事業情報センター]郵便情報システムのPDAの開発、管理、運営(SM)<br>
-[郵政事業情報センター]インテリジェント郵便情報システム構築と安定化(SI)<br><br>
+<h2>참가사업</h2><br>
+[우정사업정보센터]우편정보시스템 PDA의 개발,관리,운영(SM)<br>
+[우정사업정보센터]지능형우편정보시스템 구축 및 안정화(SI)<br>
+[NHK]NHK 맞춤형 근태관리 솔루션 개발<br><br>
 
-<h2>職務内容</h2><br>
-郵便局の配達員が集荷・配達に使うWebAppのプログラムの開発と運営と共に郵便局から配達員の勤務、PDA料金などを確認及び管理するバックエンドシステムの開発<br><br>
+<h2>직무내용</h2><br>
+-우체국 집배원이 집하/배달에 사용하는 PDA의 webApp의 개발과 운영 및 집배원의 근무, PDA요금 등을 확인 및 관리하는 백엔드 시스템 개발<br>
+-NHK 맞춤형 근태관리시스템 배치 프로세스 개발<br><br>
 
-<h2>スキル</h2><br>
-Java, C#, python, Html/JavaScript, Android, Linux, Deep Learning, Machine Learning, Oracle, MySql<br><br>
+<h2>스킬</h2><br>
+Java, C#, python, Html/JavaScript, Android, Linux, Deep Learning, Machine Learning, Oracle, MySql,GO, PHP<br><br>
 
-<h2>教育履修</h2><br>
-IOT融合サービスエンジニア養成教育(2017/12 - 2018.05)<br>
-ビッグデータ分析サービスエンジニア課程(2022/01 - 2022.06)<br><br>
+<h2>교육이수</h2><br>
+IoT융합서비스개발자과정 수료(2017/12 - 2018.05)<br>
+빅데이터 분석 과정 수료(2022/01 - 2022.06)<br><br>
